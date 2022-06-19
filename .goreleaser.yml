@@ -22,6 +22,8 @@ builds:
       - linux
       - darwin
       - freebsd
+      - openbsd
+      - netbsd
     goarch:
       - amd64
       - "386"
